@@ -3,6 +3,7 @@
   "displayName": "Help Me Chat",
   "description": "Resolver errors that appear in the terminal",
   "version": "0.0.1",
+  "repository": "https://github.com/Vitorhgbds/help-me-chat",
   "engines": {
     "vscode": "^1.78.0"
   },
